@@ -1,7 +1,3 @@
-Ecco un file `README.md` strutturato per documentare l'evoluzione del progetto, analizzando il processo iterativo e le versioni che abbiamo attraversato.
-
----
-
 # 💸 zenit 
 ### *The Retro-CLI Financial Forecaster*
 
